@@ -33,6 +33,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-archives
+  - jekyll-copyr
 
 exclude:
   - Gemfile
@@ -43,6 +44,11 @@ exclude:
 collections:
   sets:
 
+jekyll-copyr:
+  enabled: true # Optional, defaults to true
+  tasks:
+    - from: "./node_modules/@fortawesome/fontawesome-free/webfonts/."
+      to: "./_site/assets/webfonts/"
 
 jekyll-archives:
   enabled: ['categories']
