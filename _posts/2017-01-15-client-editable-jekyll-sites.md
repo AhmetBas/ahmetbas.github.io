@@ -1,6 +1,6 @@
 ---
-date: 2017-01-15
-title: Client editable Jekyll sites
+date: 2024-01-15
+title: Welkom
 video_id: _iH8f5alzWA
 description: Have non-technical people update Jekyll sites
 categories:
