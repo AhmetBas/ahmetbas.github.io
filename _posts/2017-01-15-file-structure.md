@@ -12,6 +12,9 @@ type: Video
 set: getting-started
 order_number: 2
 ---
+## What is CloudCannon?
+## What is CloudCannon?
+## What is CloudCannon?
 
 <span class='unselectable'>$ </span>#{@command}\n<span class='unselectable'>#{output}</span>
 
