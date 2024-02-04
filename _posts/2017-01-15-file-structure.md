@@ -12,6 +12,14 @@ type: Video
 set: getting-started
 order_number: 2
 ---
+
+
+### Install dependencies:
+ - Ubuntu:
+   ```shell
+   sudo apt install libmagic-dev
+   ```
+
 ## What is CloudCannon?
 ## What is CloudCannon?
 ## What is CloudCannon?
