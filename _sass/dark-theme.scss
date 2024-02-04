@@ -4,6 +4,19 @@
   http://sourcey.com
 */
 
+pre.highlight > button {
+  opacity: 0;
+}
+
+pre.highlight:hover > button {
+  opacity: 1;
+}
+
+pre.highlight > button:active,
+pre.highlight > button:focus {
+  opacity: 1;
+}
+
 .highlight {
   white-space: pre;
   overflow: auto;
