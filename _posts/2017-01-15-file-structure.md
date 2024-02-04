@@ -9,7 +9,7 @@ resources:
   - name: Source code
     link: https://github.com/CloudCannon/bakery-store/tree/structure
 type: Video
-set: getting-started
+set: ahmet
 order_number: 2
 ---
 
